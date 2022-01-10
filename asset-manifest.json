@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/google-calendar-clone-in-react-/static/css/main.83131fd9.chunk.css",
+    "main.js": "/google-calendar-clone-in-react-/static/js/main.2d803a95.chunk.js",
+    "main.js.map": "/google-calendar-clone-in-react-/static/js/main.2d803a95.chunk.js.map",
+    "runtime-main.js": "/google-calendar-clone-in-react-/static/js/runtime-main.db8d43a5.js",
+    "runtime-main.js.map": "/google-calendar-clone-in-react-/static/js/runtime-main.db8d43a5.js.map",
+    "static/js/2.b9828ef1.chunk.js": "/google-calendar-clone-in-react-/static/js/2.b9828ef1.chunk.js",
+    "static/js/2.b9828ef1.chunk.js.map": "/google-calendar-clone-in-react-/static/js/2.b9828ef1.chunk.js.map",
+    "static/js/3.4b00bf39.chunk.js": "/google-calendar-clone-in-react-/static/js/3.4b00bf39.chunk.js",
+    "static/js/3.4b00bf39.chunk.js.map": "/google-calendar-clone-in-react-/static/js/3.4b00bf39.chunk.js.map",
+    "index.html": "/google-calendar-clone-in-react-/index.html",
+    "static/css/main.83131fd9.chunk.css.map": "/google-calendar-clone-in-react-/static/css/main.83131fd9.chunk.css.map",
+    "static/js/2.b9828ef1.chunk.js.LICENSE.txt": "/google-calendar-clone-in-react-/static/js/2.b9828ef1.chunk.js.LICENSE.txt",
+    "static/media/plus.8f3ab9f7.svg": "/google-calendar-clone-in-react-/static/media/plus.8f3ab9f7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db8d43a5.js",
+    "static/js/2.b9828ef1.chunk.js",
+    "static/css/main.83131fd9.chunk.css",
+    "static/js/main.2d803a95.chunk.js"
+  ]
+}
